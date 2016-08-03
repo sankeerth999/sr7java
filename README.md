@@ -1,2 +1,2 @@
-# sr7java
+# SR7Java
 Java Repository
